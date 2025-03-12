@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello 👋, I'm Jocelyn:
 📚 I'm currently studying at the B.U.T M.M.I of Chambéry<br>🧑‍💻 I'm also in apprenticeship at MyRole<br>💙 I love React, TypeScript and Tailwind<br>🏐 I have played volleyball for 6 years and I'm coaching under 18 categories
 
 
