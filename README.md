@@ -1,5 +1,5 @@
 # Hello 👋, I'm Jocelyn:
-📚 I'm currently studying at the Master of Gobelins<br>🧑‍💻 I'm also in apprenticeship at Editions Tissot<br>💙 I love React, TypeScript and Tailwind<br>🏐 I have played volleyball for 6 years and I was coach for under 18 categories.
+📚 I'm currently studying at the Master of Gobelins<br>🧑‍💻 I'm also in apprenticeship at Editions Tissot<br>💙 I love React, TypeScript and Tailwind<br>🏐 I have played volleyball for 7 years and I was coach for under 18 categories.
 
 
 ## 🌐 Socials:
